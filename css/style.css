@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.cardContainer{
+  display: grid;
+  grid direction: columns;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  gap: 15px;
+  padding: 20px;
+  background-color:grey;
+  align-content: center;
+}
+
+/*boton de compra*/
+.buttonCTA{
+	background-color: lime;
+}
+
+
+/*boton de registro e usuario*/
+.serchBar button{
+		color: green;
+}
+
+
+
+
+
+/*REGISTRO DE USUARIO*/
+
+/*REGISTRO DE USUARIO*/
+/*.container-form{
+	width: 500px;
+	padding: 20px;
+	background-color: grey;
+	margin: auto;
+	margin-top: 20px;
+}*/
+
+/*.titulo{
+	text-align: center;
+	border: solid;
+	padding: 15px;*/
+	/*color: rgb(95, 91, 93);
+}*/
+
+/*.padre{
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+}*/
+
+
+/*.nombre, .email, .usuario, .clave{
+	display: flex;
+	flex-direction: column;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
